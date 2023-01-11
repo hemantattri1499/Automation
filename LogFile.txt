@@ -1,0 +1,429 @@
+20 Aug 2022 10:34:00  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:34:00  INFO logger - MethodName :startAppium
+20 Aug 2022 10:34:00  INFO logger - Exception :Unable to start appium server
+20 Aug 2022 10:34:00  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:34:01  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:34:01  INFO logger - MethodName :stopAppium
+20 Aug 2022 10:34:01  INFO logger - Exception :Unable to stop appium server
+20 Aug 2022 10:34:01  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:36:37  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:36:37  INFO logger - MethodName :startAppium
+20 Aug 2022 10:36:37  INFO logger - Exception :Unable to start appium server
+20 Aug 2022 10:36:37  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:36:37  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:36:37  INFO logger - MethodName :stopAppium
+20 Aug 2022 10:36:37  INFO logger - Exception :Unable to stop appium server
+20 Aug 2022 10:36:37  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:40:07  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:40:07  INFO logger - MethodName :startAppium
+20 Aug 2022 10:40:07  INFO logger - Exception :Unable to start appium server
+20 Aug 2022 10:40:07  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:40:07  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:40:07  INFO logger - MethodName :stopAppium
+20 Aug 2022 10:40:07  INFO logger - Exception :Unable to stop appium server
+20 Aug 2022 10:40:07  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:50:05  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:50:05  INFO logger - MethodName :startAppium
+20 Aug 2022 10:50:05  INFO logger - Exception :Unable to start appium server
+20 Aug 2022 10:50:05  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:50:05  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:50:05  INFO logger - MethodName :stopAppium
+20 Aug 2022 10:50:05  INFO logger - Exception :Unable to stop appium server
+20 Aug 2022 10:50:05  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:51:40  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:51:40  INFO logger - MethodName :startAppium
+20 Aug 2022 10:51:40  INFO logger - Exception :Unable to start appium server
+20 Aug 2022 10:51:40  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:51:41  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:51:41  INFO logger - MethodName :stopAppium
+20 Aug 2022 10:51:41  INFO logger - Exception :Unable to stop appium server
+20 Aug 2022 10:51:41  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:52:12  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:52:12  INFO logger - MethodName :startAppium
+20 Aug 2022 10:52:12  INFO logger - Exception :Unable to start appium server
+20 Aug 2022 10:52:12  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:52:12  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:52:12  INFO logger - MethodName :stopAppium
+20 Aug 2022 10:52:12  INFO logger - Exception :Unable to stop appium server
+20 Aug 2022 10:52:12  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:56:52  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:56:52  INFO logger - MethodName :startAppium
+20 Aug 2022 10:56:52  INFO logger - Exception :Unable to start appium server
+20 Aug 2022 10:56:52  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:56:53  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:56:53  INFO logger - MethodName :stopAppium
+20 Aug 2022 10:56:53  INFO logger - Exception :Unable to stop appium server
+20 Aug 2022 10:56:53  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:59:37  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:59:37  INFO logger - MethodName :startAppium
+20 Aug 2022 10:59:37  INFO logger - Exception :Unable to start appium server
+20 Aug 2022 10:59:37  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 10:59:37  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 10:59:37  INFO logger - MethodName :stopAppium
+20 Aug 2022 10:59:37  INFO logger - Exception :Unable to stop appium server
+20 Aug 2022 10:59:37  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 11:02:54  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 11:02:54  INFO logger - MethodName :startAppium
+20 Aug 2022 11:02:54  INFO logger - Exception :Unable to start appium server
+20 Aug 2022 11:02:54  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 11:02:55  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 11:02:55  INFO logger - MethodName :stopAppium
+20 Aug 2022 11:02:55  INFO logger - Exception :Unable to stop appium server
+20 Aug 2022 11:02:55  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 11:04:28  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 11:04:28  INFO logger - MethodName :startAppium
+20 Aug 2022 11:04:28  INFO logger - Exception :Unable to start appium server
+20 Aug 2022 11:04:28  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 11:04:28  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 11:04:28  INFO logger - MethodName :stopAppium
+20 Aug 2022 11:04:28  INFO logger - Exception :Unable to stop appium server
+20 Aug 2022 11:04:28  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 11:06:07  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 11:06:07  INFO logger - MethodName :stopAppium
+20 Aug 2022 11:06:07  INFO logger - Exception :Unable to stop appium server
+20 Aug 2022 11:06:07  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 11:06:29  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 11:06:29  INFO logger - Appium server started successfully
+20 Aug 2022 11:06:29  INFO logger - --------------------------------------
+20 Aug 2022 11:06:39  INFO logger - Android driver created
+20 Aug 2022 11:06:39  INFO logger - Running login test
+20 Aug 2022 11:07:20  INFO logger - Shutting down driver
+20 Aug 2022 11:07:21  INFO logger - Appium server stopped
+20 Aug 2022 11:07:21  INFO logger - Appium server stopped successfully
+20 Aug 2022 11:07:45  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 11:07:45  INFO logger - Appium server started successfully
+20 Aug 2022 11:07:45  INFO logger - --------------------------------------
+20 Aug 2022 11:07:51  INFO logger - Android driver created
+20 Aug 2022 11:07:51  INFO logger - Running login test
+20 Aug 2022 11:08:24  INFO logger - Login Successful
+20 Aug 2022 11:08:28  INFO logger - Shutting down driver
+20 Aug 2022 11:09:08  INFO logger - --------------------------------------
+20 Aug 2022 11:09:51  INFO logger - --------------------------------------
+20 Aug 2022 11:10:34  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 11:10:34  INFO logger - Appium server started successfully
+20 Aug 2022 11:10:34  INFO logger - --------------------------------------
+20 Aug 2022 11:10:40  INFO logger - Android driver created
+20 Aug 2022 11:10:40  INFO logger - Running login test
+20 Aug 2022 11:10:58  INFO logger - Login Successful
+20 Aug 2022 11:11:10  INFO logger - Long press successful on element: [[io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/ajeetpal/MobileAutomationFramework/src/main/java/app/SSapp.apk, appActivity=net.slideshare.mobile.ui.SplashActivity, appPackage=net.slideshare.mobile, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, name=LoginVerification, app=/Users/ajeetpal/MobileAutomationFramework/src/main/java/app/SSapp.apk, appActivity=net.slideshare.mobile.ui.SplashActivity, appPackage=net.slideshare.mobile, automationName=UiAutomator2, deviceName=Android Emulator, fullReset=true}, deviceApiLevel=30, deviceManufacturer=Google, deviceModel=sdk_gphone_x86, deviceName=emulator-5554, deviceScreenDensity=440, deviceScreenSize=1080x2280, deviceUDID=emulator-5554, fullReset=true, javascriptEnabled=true, locationContextEnabled=false, name=LoginVerification, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=135, takesScreenshot=true, viewportRect={left=0, top=135, width=1080, height=1842}, warnings={}, webStorageEnabled=false}] -> id: net.slideshare.mobile:id/action_search]
+20 Aug 2022 11:11:11  INFO logger - Verified the login
+20 Aug 2022 11:11:11  INFO logger - Shutting down driver
+20 Aug 2022 11:11:12  INFO logger - Appium server stopped
+20 Aug 2022 11:11:12  INFO logger - Appium server stopped successfully
+20 Aug 2022 11:11:28  INFO logger - --------------------------------------
+20 Aug 2022 11:11:57  INFO logger - --------------------------------------
+20 Aug 2022 11:12:31  INFO logger - --------------------------------------
+20 Aug 2022 11:13:15  INFO logger - --------------------------------------
+20 Aug 2022 11:13:21  INFO logger - Android driver created
+20 Aug 2022 11:14:02  INFO logger - Long press successful on element: [[io.appium.java_client.android.AndroidDriver, Capabilities: {app=/Users/ajeetpal/MobileAutomationFramework/src/main/java/app/SSapp.apk, appActivity=net.slideshare.mobile.ui.SplashActivity, appPackage=net.slideshare.mobile, automationName=UiAutomator2, databaseEnabled=false, desired={platformName=android, name=userHasSlideshareApp, app=/Users/ajeetpal/MobileAutomationFramework/src/main/java/app/SSapp.apk, appActivity=net.slideshare.mobile.ui.SplashActivity, appPackage=net.slideshare.mobile, automationName=UiAutomator2, deviceName=Android Emulator, noReset=false}, deviceApiLevel=30, deviceManufacturer=Google, deviceModel=sdk_gphone_x86, deviceName=emulator-5554, deviceScreenDensity=440, deviceScreenSize=1080x2280, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, name=userHasSlideshareApp, networkConnectionEnabled=true, noReset=false, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=135, takesScreenshot=true, viewportRect={left=0, top=135, width=1080, height=1842}, warnings={}, webStorageEnabled=false}] -> id: net.slideshare.mobile:id/action_search]
+20 Aug 2022 11:35:34  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 11:35:34  INFO logger - Appium server started successfully
+20 Aug 2022 11:35:34  INFO logger - --------------------------------------
+20 Aug 2022 11:35:35  INFO logger - Appium server stopped
+20 Aug 2022 11:35:35  INFO logger - Appium server stopped successfully
+20 Aug 2022 11:36:50  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 11:36:50  INFO logger - Appium server started successfully
+20 Aug 2022 11:36:50  INFO logger - --------------------------------------
+20 Aug 2022 11:36:51  INFO logger - Appium server stopped
+20 Aug 2022 11:36:51  INFO logger - Appium server stopped successfully
+20 Aug 2022 11:42:20  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 11:42:20  INFO logger - Appium server started successfully
+20 Aug 2022 11:42:20  INFO logger - --------------------------------------
+20 Aug 2022 11:42:22  INFO logger - Appium server stopped
+20 Aug 2022 11:42:22  INFO logger - Appium server stopped successfully
+20 Aug 2022 11:45:13  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 11:45:13  INFO logger - Appium server started successfully
+20 Aug 2022 11:45:13  INFO logger - --------------------------------------
+20 Aug 2022 11:45:14  INFO logger - Appium server stopped
+20 Aug 2022 11:45:14  INFO logger - Appium server stopped successfully
+20 Aug 2022 11:53:21  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 11:53:21  INFO logger - Appium server started successfully
+20 Aug 2022 11:53:21  INFO logger - --------------------------------------
+20 Aug 2022 11:53:26  INFO logger - Appium server stopped
+20 Aug 2022 11:53:26  INFO logger - Appium server stopped successfully
+20 Aug 2022 11:54:46  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 11:54:46  INFO logger - Appium server started successfully
+20 Aug 2022 11:54:46  INFO logger - --------------------------------------
+20 Aug 2022 11:54:48  INFO logger - Appium server stopped
+20 Aug 2022 11:54:48  INFO logger - Appium server stopped successfully
+20 Aug 2022 11:55:49  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 11:55:49  INFO logger - Appium server started successfully
+20 Aug 2022 11:55:49  INFO logger - --------------------------------------
+20 Aug 2022 11:55:50  INFO logger - Appium server stopped
+20 Aug 2022 11:55:50  INFO logger - Appium server stopped successfully
+20 Aug 2022 11:57:02  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 11:57:02  INFO logger - Appium server started successfully
+20 Aug 2022 11:57:02  INFO logger - --------------------------------------
+20 Aug 2022 11:57:03  INFO logger - Appium server stopped
+20 Aug 2022 11:57:03  INFO logger - Appium server stopped successfully
+20 Aug 2022 11:58:56  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 11:58:56  INFO logger - Appium server started successfully
+20 Aug 2022 11:58:56  INFO logger - --------------------------------------
+20 Aug 2022 11:58:57  INFO logger - Appium server stopped
+20 Aug 2022 11:58:57  INFO logger - Appium server stopped successfully
+20 Aug 2022 11:59:31  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 11:59:31  INFO logger - Appium server started successfully
+20 Aug 2022 11:59:31  INFO logger - --------------------------------------
+20 Aug 2022 11:59:33  INFO logger - Appium server stopped
+20 Aug 2022 11:59:33  INFO logger - Appium server stopped successfully
+20 Aug 2022 12:01:05  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 12:01:05  INFO logger - Appium server started successfully
+20 Aug 2022 12:01:05  INFO logger - --------------------------------------
+20 Aug 2022 12:01:06  INFO logger - Appium server stopped
+20 Aug 2022 12:01:06  INFO logger - Appium server stopped successfully
+20 Aug 2022 12:01:50  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 12:01:50  INFO logger - Appium server started successfully
+20 Aug 2022 12:01:50  INFO logger - --------------------------------------
+20 Aug 2022 12:02:23  INFO logger - Appium server stopped
+20 Aug 2022 12:02:23  INFO logger - Appium server stopped successfully
+20 Aug 2022 12:08:40  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 12:08:40  INFO logger - Appium server started successfully
+20 Aug 2022 12:08:40  INFO logger - --------------------------------------
+20 Aug 2022 12:08:43  INFO logger - Appium server stopped
+20 Aug 2022 12:08:43  INFO logger - Appium server stopped successfully
+20 Aug 2022 12:49:12  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 12:49:12  INFO logger - Appium server started successfully
+20 Aug 2022 12:49:12  INFO logger - --------------------------------------
+20 Aug 2022 12:50:11  INFO logger - iOS driver created
+20 Aug 2022 12:50:11  INFO logger - Running login test
+20 Aug 2022 12:50:11  INFO logger - Verified the login
+20 Aug 2022 12:50:11  INFO logger - Shutting down driver
+20 Aug 2022 12:50:12  INFO logger - Appium server stopped
+20 Aug 2022 12:50:12  INFO logger - Appium server stopped successfully
+20 Aug 2022 12:54:23  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 12:54:23  INFO logger - Appium server started successfully
+20 Aug 2022 12:54:23  INFO logger - --------------------------------------
+20 Aug 2022 12:54:30  INFO logger - iOS driver created
+20 Aug 2022 12:54:30  INFO logger - Running login test
+20 Aug 2022 12:54:30  INFO logger - Verified the login
+20 Aug 2022 12:54:30  INFO logger - Shutting down driver
+20 Aug 2022 12:54:31  INFO logger - Appium server stopped
+20 Aug 2022 12:54:31  INFO logger - Appium server stopped successfully
+20 Aug 2022 12:54:53  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 12:54:53  INFO logger - Appium server started successfully
+20 Aug 2022 12:54:53  INFO logger - --------------------------------------
+20 Aug 2022 12:54:58  INFO logger - iOS driver created
+20 Aug 2022 12:54:58  INFO logger - Running login test
+20 Aug 2022 12:54:58  INFO logger - Verified the login
+20 Aug 2022 12:54:58  INFO logger - Shutting down driver
+20 Aug 2022 12:54:59  INFO logger - Appium server stopped
+20 Aug 2022 12:54:59  INFO logger - Appium server stopped successfully
+20 Aug 2022 13:08:26  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 13:08:26  INFO logger - Appium server started successfully
+20 Aug 2022 13:08:26  INFO logger - --------------------------------------
+20 Aug 2022 13:08:27  INFO logger - Appium server stopped
+20 Aug 2022 13:08:27  INFO logger - Appium server stopped successfully
+20 Aug 2022 13:11:08  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 13:11:08  INFO logger - Appium server started successfully
+20 Aug 2022 13:11:08  INFO logger - --------------------------------------
+20 Aug 2022 13:11:09  INFO logger - Appium server stopped
+20 Aug 2022 13:11:09  INFO logger - Appium server stopped successfully
+20 Aug 2022 13:20:01  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 13:20:01  INFO logger - Appium server started successfully
+20 Aug 2022 13:20:01  INFO logger - --------------------------------------
+20 Aug 2022 13:20:03  INFO logger - Appium server stopped
+20 Aug 2022 13:20:03  INFO logger - Appium server stopped successfully
+20 Aug 2022 13:20:28  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 13:20:28  INFO logger - Appium server started successfully
+20 Aug 2022 13:20:28  INFO logger - --------------------------------------
+20 Aug 2022 13:20:38  INFO logger - iOS driver created
+20 Aug 2022 13:20:38  INFO logger - Running login test
+20 Aug 2022 13:20:38  INFO logger - Shutting down driver
+20 Aug 2022 13:20:40  INFO logger - Appium server stopped
+20 Aug 2022 13:20:40  INFO logger - Appium server stopped successfully
+20 Aug 2022 13:21:09  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 13:21:09  INFO logger - Appium server started successfully
+20 Aug 2022 13:21:09  INFO logger - --------------------------------------
+20 Aug 2022 13:21:15  INFO logger - iOS driver created
+20 Aug 2022 13:21:15  INFO logger - Running login test
+20 Aug 2022 13:21:17  INFO logger - Verified the login
+20 Aug 2022 13:21:17  INFO logger - Shutting down driver
+20 Aug 2022 13:21:18  INFO logger - Appium server stopped
+20 Aug 2022 13:21:18  INFO logger - Appium server stopped successfully
+20 Aug 2022 13:22:18  INFO logger - Appium started on http://0.0.0.0:4723/wd/hub
+20 Aug 2022 13:22:18  INFO logger - Appium server started successfully
+20 Aug 2022 13:22:18  INFO logger - --------------------------------------
+20 Aug 2022 13:22:24  INFO logger - iOS driver created
+20 Aug 2022 13:22:24  INFO logger - Running login test
+20 Aug 2022 13:22:26  INFO logger - Verified the login
+20 Aug 2022 13:22:26  INFO logger - Shutting down driver
+20 Aug 2022 13:22:27  INFO logger - Appium server stopped
+20 Aug 2022 13:22:27  INFO logger - Appium server stopped successfully
+20 Aug 2022 13:23:27  INFO logger - --------------------------------------
+20 Aug 2022 13:23:49  INFO logger - --------------------------------------
+20 Aug 2022 13:23:54  INFO logger - Android driver created
+20 Aug 2022 13:28:07  INFO logger - --------------------------------------
+20 Aug 2022 13:28:11  INFO logger - Android driver created
+20 Aug 2022 13:30:59  INFO logger - --------------------------------------
+20 Aug 2022 13:31:04  INFO logger - Android driver created
+20 Aug 2022 13:32:17  INFO logger - --------------------------------------
+20 Aug 2022 13:37:25  INFO logger - --------------------------------------
+20 Aug 2022 13:38:39  INFO logger - --------------------------------------
+20 Aug 2022 13:39:12  INFO logger - --------------------------------------
+20 Aug 2022 13:40:23  INFO logger - --------------------------------------
+20 Aug 2022 13:44:43  INFO logger - --------------------------------------
+20 Aug 2022 14:51:25  INFO logger - --------------------------------------
+20 Aug 2022 14:56:51  INFO logger - --------------------------------------
+20 Aug 2022 14:57:45  INFO logger - iOS driver created
+20 Aug 2022 14:57:52  INFO logger - --------------------------------------
+20 Aug 2022 14:57:58  INFO logger - iOS driver created
+20 Aug 2022 15:08:35  INFO logger - --------------------------------------
+20 Aug 2022 15:08:40  INFO logger - iOS driver created
+20 Aug 2022 18:41:34  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 18:41:34  INFO logger - MethodName :startAppium
+20 Aug 2022 18:41:34  INFO logger - Exception :Unable to start appium server
+20 Aug 2022 18:41:34  INFO logger - -----------------------------------------------------------------------------------
+20 Aug 2022 18:41:34  INFO logger - ClassName :tests.testngTests.LoginTest
+20 Aug 2022 18:41:34  INFO logger - MethodName :stopAppium
+20 Aug 2022 18:41:34  INFO logger - Exception :Unable to stop appium server
+20 Aug 2022 18:41:34  INFO logger - -----------------------------------------------------------------------------------
+26 Aug 2022 11:07:17  INFO logger - ClassName :tests.testngTests.LoginTest
+26 Aug 2022 11:07:17  INFO logger - MethodName :startAppium
+26 Aug 2022 11:07:17  INFO logger - Exception :Unable to start appium server
+26 Aug 2022 11:07:17  INFO logger - -----------------------------------------------------------------------------------
+26 Aug 2022 11:07:18  INFO logger - ClassName :tests.testngTests.LoginTest
+26 Aug 2022 11:07:18  INFO logger - MethodName :stopAppium
+26 Aug 2022 11:07:18  INFO logger - Exception :Unable to stop appium server
+26 Aug 2022 11:07:18  INFO logger - -----------------------------------------------------------------------------------
+26 Aug 2022 14:02:43  INFO logger - --------------------------------------
+26 Aug 2022 14:03:58  INFO logger - --------------------------------------
+26 Aug 2022 14:04:38  INFO logger - --------------------------------------
+26 Aug 2022 14:05:03  INFO logger - --------------------------------------
+26 Aug 2022 14:05:36  INFO logger - --------------------------------------
+26 Aug 2022 14:06:03  INFO logger - --------------------------------------
+26 Aug 2022 14:07:00  INFO logger - --------------------------------------
+26 Aug 2022 14:07:07  INFO logger - Windows driver created
+26 Aug 2022 14:11:11  INFO logger - --------------------------------------
+26 Aug 2022 14:11:17  INFO logger - Windows driver created
+26 Aug 2022 14:11:19  INFO logger - ClassName :cucumberIntegrationTests.screens.windows.WindowsLoginScreen
+26 Aug 2022 14:11:19  INFO logger - MethodName :findElement
+26 Aug 2022 14:11:19  INFO logger - Exception :Element not foundBy.name: Master Password
+26 Aug 2022 14:11:19  INFO logger - -----------------------------------------------------------------------------------
+26 Aug 2022 14:15:29  INFO logger - --------------------------------------
+26 Aug 2022 14:15:31  INFO logger - Windows driver created
+26 Aug 2022 14:15:33  INFO logger - ClassName :cucumberIntegrationTests.screens.windows.WindowsLoginScreen
+26 Aug 2022 14:15:33  INFO logger - MethodName :findElement
+26 Aug 2022 14:15:33  INFO logger - Exception :Element not foundBy.name: Master Password
+26 Aug 2022 14:15:33  INFO logger - -----------------------------------------------------------------------------------
+26 Aug 2022 14:18:35  INFO logger - --------------------------------------
+26 Aug 2022 14:18:39  INFO logger - Windows driver created
+26 Aug 2022 14:20:52  INFO logger - --------------------------------------
+26 Aug 2022 14:20:55  INFO logger - Windows driver created
+26 Aug 2022 14:22:25  INFO logger - --------------------------------------
+26 Aug 2022 14:22:31  INFO logger - Windows driver created
+26 Aug 2022 14:24:28  INFO logger - --------------------------------------
+26 Aug 2022 14:24:34  INFO logger - Windows driver created
+26 Aug 2022 14:25:03  INFO logger - --------------------------------------
+26 Aug 2022 14:25:06  INFO logger - Windows driver created
+26 Aug 2022 14:27:56  INFO logger - --------------------------------------
+26 Aug 2022 14:28:02  INFO logger - Windows driver created
+26 Aug 2022 14:28:40  INFO logger - --------------------------------------
+26 Aug 2022 14:28:46  INFO logger - Windows driver created
+28 Dec 2022 18:23:45  INFO logger - ClassName :tests.testngTests.LoginTest
+28 Dec 2022 18:23:45  INFO logger - MethodName :startAppium
+28 Dec 2022 18:23:45  INFO logger - Exception :Unable to start appium server
+28 Dec 2022 18:23:45  INFO logger - -----------------------------------------------------------------------------------
+28 Dec 2022 18:23:46  INFO logger - ClassName :tests.testngTests.LoginTest
+28 Dec 2022 18:23:46  INFO logger - MethodName :stopAppium
+28 Dec 2022 18:23:46  INFO logger - Exception :Unable to stop appium server
+28 Dec 2022 18:23:46  INFO logger - -----------------------------------------------------------------------------------
+28 Dec 2022 18:25:37  INFO logger - ClassName :tests.testngTests.LoginTest
+28 Dec 2022 18:25:37  INFO logger - MethodName :startAppium
+28 Dec 2022 18:25:37  INFO logger - Exception :Unable to start appium server
+28 Dec 2022 18:25:37  INFO logger - -----------------------------------------------------------------------------------
+28 Dec 2022 18:25:37  INFO logger - ClassName :tests.testngTests.LoginTest
+28 Dec 2022 18:25:37  INFO logger - MethodName :stopAppium
+28 Dec 2022 18:25:37  INFO logger - Exception :Unable to stop appium server
+28 Dec 2022 18:25:37  INFO logger - -----------------------------------------------------------------------------------
+28 Dec 2022 18:39:13  INFO logger - ClassName :tests.testngTests.LoginTest
+28 Dec 2022 18:39:13  INFO logger - MethodName :startAppium
+28 Dec 2022 18:39:13  INFO logger - Exception :Unable to start appium server
+28 Dec 2022 18:39:13  INFO logger - -----------------------------------------------------------------------------------
+28 Dec 2022 18:39:13  INFO logger - ClassName :tests.testngTests.LoginTest
+28 Dec 2022 18:39:13  INFO logger - MethodName :stopAppium
+28 Dec 2022 18:39:13  INFO logger - Exception :Unable to stop appium server
+28 Dec 2022 18:39:13  INFO logger - -----------------------------------------------------------------------------------
+29 Dec 2022 11:16:11  INFO logger - ClassName :tests.testngTests.LoginTest
+29 Dec 2022 11:16:11  INFO logger - MethodName :startAppium
+29 Dec 2022 11:16:11  INFO logger - Exception :Unable to start appium server
+29 Dec 2022 11:16:11  INFO logger - -----------------------------------------------------------------------------------
+29 Dec 2022 11:16:11  INFO logger - ClassName :tests.testngTests.LoginTest
+29 Dec 2022 11:16:11  INFO logger - MethodName :stopAppium
+29 Dec 2022 11:16:11  INFO logger - Exception :Unable to stop appium server
+29 Dec 2022 11:16:11  INFO logger - -----------------------------------------------------------------------------------
+29 Dec 2022 11:17:54  INFO logger - ClassName :tests.testngTests.LoginTest
+29 Dec 2022 11:17:54  INFO logger - MethodName :startAppium
+29 Dec 2022 11:17:54  INFO logger - Exception :Unable to start appium server
+29 Dec 2022 11:17:54  INFO logger - -----------------------------------------------------------------------------------
+29 Dec 2022 11:17:54  INFO logger - ClassName :tests.testngTests.LoginTest
+29 Dec 2022 11:17:54  INFO logger - MethodName :stopAppium
+29 Dec 2022 11:17:54  INFO logger - Exception :Unable to stop appium server
+29 Dec 2022 11:17:54  INFO logger - -----------------------------------------------------------------------------------
+29 Dec 2022 11:39:16  INFO logger - ClassName :tests.testngTests.LoginTest
+29 Dec 2022 11:39:16  INFO logger - MethodName :startAppium
+29 Dec 2022 11:39:16  INFO logger - Exception :Unable to start appium server
+29 Dec 2022 11:39:16  INFO logger - -----------------------------------------------------------------------------------
+29 Dec 2022 11:39:16  INFO logger - ClassName :tests.testngTests.LoginTest
+29 Dec 2022 11:39:16  INFO logger - MethodName :stopAppium
+29 Dec 2022 11:39:16  INFO logger - Exception :Unable to stop appium server
+29 Dec 2022 11:39:16  INFO logger - -----------------------------------------------------------------------------------
+29 Dec 2022 11:39:39  INFO logger - ClassName :tests.testngTests.LoginTest
+29 Dec 2022 11:39:39  INFO logger - MethodName :startAppium
+29 Dec 2022 11:39:39  INFO logger - Exception :Unable to start appium server
+29 Dec 2022 11:39:39  INFO logger - -----------------------------------------------------------------------------------
+29 Dec 2022 11:39:39  INFO logger - ClassName :tests.testngTests.LoginTest
+29 Dec 2022 11:39:39  INFO logger - MethodName :stopAppium
+29 Dec 2022 11:39:39  INFO logger - Exception :Unable to stop appium server
+29 Dec 2022 11:39:39  INFO logger - -----------------------------------------------------------------------------------
+29 Dec 2022 11:42:29  INFO logger - ClassName :tests.testngTests.LoginTest
+29 Dec 2022 11:42:29  INFO logger - MethodName :startAppium
+29 Dec 2022 11:42:29  INFO logger - Exception :Unable to start appium server
+29 Dec 2022 11:42:29  INFO logger - -----------------------------------------------------------------------------------
+29 Dec 2022 11:42:29  INFO logger - ClassName :tests.testngTests.LoginTest
+29 Dec 2022 11:42:29  INFO logger - MethodName :stopAppium
+29 Dec 2022 11:42:29  INFO logger - Exception :Unable to stop appium server
+29 Dec 2022 11:42:29  INFO logger - -----------------------------------------------------------------------------------
+29 Dec 2022 11:43:19  INFO logger - --------------------------------------
+29 Dec 2022 11:43:49  INFO logger - --------------------------------------
+29 Dec 2022 11:46:10  INFO logger - --------------------------------------
+29 Dec 2022 11:46:39  INFO logger - --------------------------------------
+29 Dec 2022 11:47:34  INFO logger - --------------------------------------
+29 Dec 2022 11:47:37  INFO logger - Windows driver created
+29 Dec 2022 11:48:03  INFO logger - --------------------------------------
+29 Dec 2022 11:48:07  INFO logger - Windows driver created
+29 Dec 2022 12:27:40  INFO logger - --------------------------------------
+29 Dec 2022 12:27:42  INFO logger - Windows driver created
+29 Dec 2022 12:28:07  INFO logger - --------------------------------------
+29 Dec 2022 12:28:09  INFO logger - Windows driver created
+29 Dec 2022 12:28:21  INFO logger - --------------------------------------
+29 Dec 2022 12:28:23  INFO logger - Windows driver created
+29 Dec 2022 12:36:39  INFO logger - --------------------------------------
+29 Dec 2022 12:36:41  INFO logger - Windows driver created
+29 Dec 2022 12:37:09  INFO logger - --------------------------------------
+29 Dec 2022 12:37:11  INFO logger - Windows driver created
+29 Dec 2022 12:38:43  INFO logger - ClassName :tests.testngTests.LoginTest
+29 Dec 2022 12:38:43  INFO logger - MethodName :startAppium
+29 Dec 2022 12:38:43  INFO logger - Exception :Unable to start appium server
+29 Dec 2022 12:38:43  INFO logger - -----------------------------------------------------------------------------------
+29 Dec 2022 12:38:43  INFO logger - ClassName :tests.testngTests.LoginTest
+29 Dec 2022 12:38:43  INFO logger - MethodName :stopAppium
+29 Dec 2022 12:38:43  INFO logger - Exception :Unable to stop appium server
+29 Dec 2022 12:38:43  INFO logger - -----------------------------------------------------------------------------------
+29 Dec 2022 13:26:24  INFO logger - --------------------------------------
+29 Dec 2022 13:26:26  INFO logger - Windows driver created
+29 Dec 2022 13:27:38  INFO logger - --------------------------------------
+29 Dec 2022 13:27:40  INFO logger - Windows driver created
+29 Dec 2022 13:28:24  INFO logger - --------------------------------------
+29 Dec 2022 13:28:26  INFO logger - Windows driver created
+29 Dec 2022 13:41:07  INFO logger - --------------------------------------
+29 Dec 2022 13:41:09  INFO logger - Windows driver created
+05 Jan 2023 18:31:09  INFO logger - ClassName :tests.testngTests.LoginTest
+05 Jan 2023 18:31:09  INFO logger - MethodName :startAppium
+05 Jan 2023 18:31:09  INFO logger - Exception :Unable to start appium server
+05 Jan 2023 18:31:09  INFO logger - -----------------------------------------------------------------------------------
+05 Jan 2023 18:31:09  INFO logger - ClassName :tests.testngTests.LoginTest
+05 Jan 2023 18:31:09  INFO logger - MethodName :stopAppium
+05 Jan 2023 18:31:09  INFO logger - Exception :Unable to stop appium server
+05 Jan 2023 18:31:09  INFO logger - -----------------------------------------------------------------------------------
+05 Jan 2023 18:31:48  INFO logger - --------------------------------------
+05 Jan 2023 18:31:50  INFO logger - Windows driver created
